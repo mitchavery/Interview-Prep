@@ -1,0 +1,1 @@
+def longestsubstring(input_string, k):
